@@ -18,11 +18,11 @@ What is the difference between a static unit like `px` and a responsive unit lik
 Describe what makes a unit responsive and why that matters when building a website.
 
 &nbsp;
-
+px is fixed size never be change 
 &nbsp;
-
+% is A percentage of the parent element 
 &nbsp;
-
+vh is A percentage of brower window's height
 ---
 
 ## 问题 2 — 解释 / Question 2 — Explain
@@ -45,3 +45,4 @@ Look at these two CSS rules:
 
 Explain what happens to the image on a small screen with each rule. Why does one behave better than the other?
 
+first image is 400px the image width will be larger then second image is 50% the 400px is work better then 50% image because 50% image can Fixied size and can better know want how much px need.
